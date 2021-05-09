@@ -1,8 +1,8 @@
 class Coretemp < Formula
   desc "Outputs current CPU core and package temperatures on macOS"
   homepage "https://github.com/hacker1024/coretemp"
-  url "https://github.com/hacker1024/coretemp/archive/v1.1.tar.gz"
-  sha256 "f8d8739c45ccf62f12f064cc37bfc0f4a10a8039cfdaec93ed564a12d136ae0b"
+  url "https://github.com/hacker1024/coretemp/archive/v1.1.1.tar.gz"
+  sha256 "e643db577759744a16c1e503f2ff4a399188f95c620c407602beff6cf2769ce5"
   license "GPL-2.0-or-later"
 
   def install
